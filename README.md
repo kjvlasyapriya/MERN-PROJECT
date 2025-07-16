@@ -1,1 +1,4 @@
-# MERN-PROJECT
+🌾 Farm2Market – Empowering Farmers, Connecting the World
+
+🌾 Farm2Market is a 🌐 web-based platform designed to empower 👩‍🌾 rural farmers by helping them showcase, manage, and sell their 🛍️ value-added agricultural products—such as 🌶️ organic spices, 🧵 handmade crafts, and 🍓 homemade jams—directly to 🌍 global buyers. It bridges the gap between traditional farming and digital commerce by offering a user-friendly interface that reduces dependency on middlemen, increases visibility, and promotes 📈 economic independence. Built using 💻 HTML, CSS, JavaScript, and Bootstrap, the platform includes a responsive 🖥️ homepage, login 🔐 and registration 📝 pages, product listings with "Order Now" 🛒 buttons, and a dedicated order page for buyers. While the frontend is fully developed, the backend currently includes basic form validations, with future plans for full authentication, dashboards, and order management. This platform supports sustainable agriculture 🌱, encourages rural entrepreneurship 💼, and fosters inclusive growth through technology 🤝.
+
